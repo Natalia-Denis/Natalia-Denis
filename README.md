@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-EcqCKYnrHiAgwpGqme"></img>
+<img src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-EcqCKYnrHiAgwpGqme" width="80">
 
 <h2> Hola, Soy Natalia, soy Full Stack Developer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  <h3> Mis pasiones se reparten entre la programación y el diseño web, pero sin duda soy mas lógica que creativa!😉 </h3>
