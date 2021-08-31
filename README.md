@@ -2,7 +2,7 @@
 <h2> Hola, soy Natalia,  Full Stack Developer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2> 
  <h3> Mis pasiones se reparten entre la programación y el diseño web, pero sin duda soy mas lógica que creativa!😉 </h3>
  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47icie7k7j0m29drkd32v7uchqd9lk1iia7fie4bxw&rid=giphy.gif&ct=g" >
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47icie7k7j0m29drkd32v7uchqd9lk1iia7fie4bxw&rid=giphy.gif&ct=g" > <h3><me recibi de Tecnica Electronica</h3>
 
 
 [![Linkedin: nataliaDenis](https://img.shields.io/badge/in-Nataliadenis-blue)](https://www.linkedin.com/in/nataliadenis/)
@@ -12,6 +12,7 @@
 <p><h3>
 En mis proyectos uso : <br>
 <br>
+-Lenguaje: C++, Javascript
 -Fontend: [React, Redux,Html, Css] <br>
 -Backend: [nodeJs, Express] <br>
 -Database:[Sequelize, Postgress] <br>
