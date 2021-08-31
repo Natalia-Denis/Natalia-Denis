@@ -2,14 +2,18 @@
 <h1> Hola, soy Natalia,  Full Stack Developer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1> 
  <h4> Mis pasiones se reparten entre la programación y el diseño web, pero sin duda soy mas lógica que creativa!😉 </h4>
  
- <div style="float:left">  <h3>
- ## Me recibi de: <br>
- Full Stack Developer en Henry <br>
- Tecnica electronica en UNLAM (Universidad de la Matanza)</h3>      </div>
+  
+  <div>
+<img align="left" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47icie7k7j0m29drkd32v7uchqd9lk1iia7fie4bxw&rid=giphy.gif&ct=g" ></div>
+
+ <div> <br><br>
+  <h3>
+ 🌈 Me recibi de: <br>
+ <ul>
+ <li>Full Stack Developer en Henry </li>
+ <li>Tecnica electronica en UNLAM (Universidad de la Matanza) </li></h3> </ul>     </div>
  
- 
-  <div style="float:left">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47icie7k7j0m29drkd32v7uchqd9lk1iia7fie4bxw&rid=giphy.gif&ct=g" ></div>
+
 
  [![Linkedin: nataliaDenis](https://img.shields.io/badge/in-Nataliadenis-blue)](https://www.linkedin.com/in/nataliadenis/)
 
